@@ -75,4 +75,3 @@ pnpm dev
 
 ---
 
-ساخته شده توسط [Payam Shafiee](https://github.com/payam-shg).
