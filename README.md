@@ -5,7 +5,8 @@
 <p align="center">
 مراقب باشید تو پاچتون نره 😉
 </p>
-![Screenshot 2025-12-08 005714](https://github.com/user-attachments/assets/b3d755d6-3073-43eb-a744-9df49511bb71)
+
+![Screenshot 2025-12-08 005714](https://github.com/user-attachments/assets/e6996931-194d-4cdb-9789-753cb5f07d7d)
 
 ![Screenshot 2025-12-08 005737](https://github.com/user-attachments/assets/a9842376-b515-47cf-8320-ef83a94da976)
 
@@ -83,5 +84,6 @@ pnpm dev
 اگر ایده‌ای برای بهبود برنامه دارید یا با مشکلی مواجه شدید، می‌توانید از طریق ایشوها (Issues) در گیت‌هاب آن را مطرح کنید.
 
 ---
+
 
 
