@@ -5,6 +5,15 @@
 <p align="center">
 مراقب باشید تو پاچتون نره 😉
 </p>
+![Screenshot 2025-12-08 005714](https://github.com/user-attachments/assets/b3d755d6-3073-43eb-a744-9df49511bb71)
+
+![Screenshot 2025-12-08 005737](https://github.com/user-attachments/assets/a9842376-b515-47cf-8320-ef83a94da976)
+
+![Screenshot 2025-12-08 005825](https://github.com/user-attachments/assets/c165e840-e104-4b8d-957a-292ddb8d8c69)
+
+![Screenshot 2025-12-08 005918](https://github.com/user-attachments/assets/d93b0123-1beb-4f86-ac6d-0ceae34c349f)
+
+
 
 ## ✨ ویژگی‌ها
 
@@ -74,4 +83,5 @@ pnpm dev
 اگر ایده‌ای برای بهبود برنامه دارید یا با مشکلی مواجه شدید، می‌توانید از طریق ایشوها (Issues) در گیت‌هاب آن را مطرح کنید.
 
 ---
+
 
